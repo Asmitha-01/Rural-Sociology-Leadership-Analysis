@@ -1,5 +1,5 @@
 # Rural Sociology and Educational Psychology
-
+![Network Graph](GRAPH.png)
 **Name:** Asmitha R L
 **Course Code:** AEXAC101  
 **Course Title:** Rural Sociology and Educational Psychology  
