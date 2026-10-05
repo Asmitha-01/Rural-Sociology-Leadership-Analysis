@@ -6,13 +6,17 @@
 
 ---
 ![Network Graph](GRAPH.png)
-## 🌱 Leadership – Learning & Reflection
-Leadership is not just about leading a team; it is about inspiring others, taking responsibility, making the right decisions, and working together towards a common goal.
+**Exploring Social Capital and Leadership Structures in Rural Sociology 🌐📊**
 
-This learning experience helped me understand that a good leader is someone who listens, supports, communicates, and motivates others to grow.
+As part of my AEXAC101 Rural Sociology assignment, I analyzed network relationships and structural centrality within rural community structures using force-directed graph visualization.
 
-## 🌱 Leadership in Agriculture
-Leadership plays an important role in the field of agriculture. An effective agricultural leader guides farmers, encourages innovation, promotes sustainable farming practices, and helps communities adapt to changing agricultural needs.
+Key insights from the network analysis:
 
-### Hashtags
-`#LeadershipInAgriculture` `#Agriculture` `#AgriLeadership` `#SustainableAgriculture` `#StudentLearning` `#Leadership` `#LearningJourney`
+**Central Hubs**: Nodes 8, 26, and 74 emerge as key opinion leaders and primary connectors within the network, exhibiting high degree centrality.
+
+**Information Flow**: The dense cluster surrounding these core nodes highlights how socio-economic information and innovation diffuse through key leadership channels.
+
+**Community Cohesion**: Peripheral nodes demonstrate strong sub-group connectivity, emphasizing the importance of informal social ties in community resilience.
+Visualizing these relationship dynamics provides a data-driven perspective on how social capital shapes rural development and decision-making processes.
+
+#RuralSociology #DataVisualization #NetworkAnalysis #SocialCapital #Leadership #Kumu #AcademicProject #AgriculturalExtension
