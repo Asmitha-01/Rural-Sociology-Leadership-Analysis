@@ -5,9 +5,8 @@
 **Course Title:** Rural Sociology and Educational Psychology  
 
 ---
-![Network Graph](GRAPH.jpeg)
 **Exploring Social Capital and Leadership Structures in Rural Sociology 🌐📊**
-
+![Network Graph](GRAPH.jpeg)
 As part of my AEXAC101 Rural Sociology assignment, I analyzed network relationships and structural centrality within rural community structures using force-directed graph visualization.
 
 Key insights from the network analysis:
