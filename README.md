@@ -5,7 +5,7 @@
 **Course Title:** Rural Sociology and Educational Psychology  
 
 ---
-![Network Graph](GRAPH.png)
+![Network Graph](GRAPH.JPEG)
 ## 🌱 Leadership – Learning & Reflection
 Leadership is not just about leading a team; it is about inspiring others, taking responsibility, making the right decisions, and working together towards a common goal.
 
